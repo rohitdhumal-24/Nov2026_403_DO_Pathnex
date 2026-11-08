@@ -1,0 +1,17 @@
+# What I did today
+# 2 hours - Lecture.
+# 30 mins coding - write YMLS.
+# 45 mins understand the YMLS.
+# 15 min Listen English.
+# 30 min Speak English.
+# 30 min Revise Aws.
+# 3 hours for revise Linux concept and commands and practticed by using EC2 Instance.
+# 2 hours for scripting tutorial.
+
+## Tomorrow's Task
+# 2 hours - Lecture.
+# 2 hour Revise Aws concept
+# 30 mins coding - write YMLS.
+# 45 mins understand the YMLS.
+# 15 min Listen English
+# 15 min Speak English
