@@ -1,0 +1,18 @@
+# What I did today
+# 4 hours - Lecture.
+# 30 mins coding - write YMLS.
+# 1 hour understand the YMLS
+# 15 min Listen English
+# 30 min Speak English
+# 2 Unnderstand Docker and Docker topics from today's lecture.
+# 15 min presentation on Docker topics from today's lecture.
+# 1 hour and 30 min for Docker tutorial
+
+## Tomorrow's Task
+# 3 hours - Lecture.
+# 30 mins coding - write YMLS.
+# 1 hour understand the YMLS
+# 15 min Listen English
+# 30 min Speak English
+# 1 hour Revise Aws
+# 1 Revise Linux
